@@ -1,0 +1,3 @@
+{
+    "open-php-html-js-in-browser.customUrlToOpen": "http://localhost:8081/${relativeDirnameDocumentRoot}/${fileBasename}"
+}
