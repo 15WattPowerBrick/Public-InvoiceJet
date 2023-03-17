@@ -117,9 +117,9 @@
                     </div>
                     
                     <br><p class="text-l">Comments</p>
-                    <textarea id="message" rows="4" class="block w-full text-sm" placeholder="Write your Comments here..."></textarea>
+                    <textarea name="comments" id="comments" rows="4" class="block w-full text-sm" placeholder="Write your Comments here..."></textarea>
                     <br><p class="text-l">Terms & Conditions</p>
-                    <textarea id="message" rows="4" class="block w-full text-sm" placeholder="Write your Terms & Conditions here..."></textarea>
+                    <textarea name="terms" id="terms" rows="4" class="block w-full text-sm" placeholder="Write your Terms & Conditions here..."></textarea>
                 </div>
             </page>
         </form>
