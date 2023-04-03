@@ -1,4 +1,6 @@
 # Public-InvoiceJet
+I am a student working on a solo project. Feel free to contact me for any inquiry.
+My linkedIn profile is: https://www.linkedin.com/in/aung-swan-htat-bb425a1a9/
 
 Please refer to Public-InvoiceJet/dist/index.php.
 
