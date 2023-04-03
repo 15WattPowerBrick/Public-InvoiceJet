@@ -14,6 +14,6 @@ Screenshots of current progess:
 ![image](https://user-images.githubusercontent.com/74162870/229599906-e1f3211e-6045-409f-8212-999f3811bd1e.png)
 
 Special thanks to:
-Tailwind CSS
-Heroicons
-Flowbite
+Tailwind CSS, 
+Heroicons, 
+Flowbite, 
